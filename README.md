@@ -3,7 +3,7 @@
 
 ## 📦 Сейчас доступно
 - **[CursorReset](https://github.com/RobinPlay-2025/Tools/blob/main/applications/CursorReset.rar)** — обход лимитов пробного периода.
-- **[RustGradientGenerator](https://github.com/RobinPlay-2025/Tools/blob/main/applications/RustGradientGenerator.rar)**
+- **[RustGradientGenerator](https://github.com/RobinPlay-2025/Tools/blob/main/applications/RustGradientGenerator.rar)** - инструмент для администраторов серверов Rust. Мгновенно создаёт многоцветные градиенты текста и генерирует готовый код для конфигов в несколько кликов.
 
 ## 📁 Структура
 Все приложения хранятся в одной папке **applications**.
