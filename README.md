@@ -9,3 +9,12 @@
 Все приложения хранятся в одной папке **applications**.
 
 *Новые инструменты будут добавлены позже.*
+
+### CursorReset
+**Версия:** 2.6.21+ | **Автор:** Robin Play | **Категория:** Приложения
+
+🚀 Cursor Reset Tool [VPN Safe Mode]
+
+[Подробнее](./applications/CursorReset.md) | [Скачать](https://github.com/RobinPlay-2025/Tools/releases/download/v2.6.21%2B/CursorReset.rar)
+
+---
